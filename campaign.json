@@ -1,0 +1,39 @@
+{
+  "jobs": [
+    {
+      "id": "ad01",
+      "angle": "product_benefit",
+      "language": "es",
+      "prompt": "Vertical premium product ad, 9:16. @Image 1 is the product: the whey protein pouch. Keep its shape, proportions, colours and label exactly as shown. Do not reproduce any award badges, headlines or graphics that appear beside or on the reference images. @Image 2 shows the shake flavours; use it only for the colour and texture of the shakes, never for its text. 0-3s: slow push-in on the pouch standing on a bright studio kitchen counter, soft directional light sweeping across the label, shallow depth of field. 3-5s: a scoop of powder pours into a shaker, then a chocolate shake swirls in slow motion against a clean background. 5-8s: medium close-up of a fitness coach behind the counter holding the pouch, looking directly into the camera. In a warm, confident Spanish voice, the coach says once on camera: {Proteína que sabe de verdad a postre.} Clean, bright commercial style, premium colour grade. (soft upbeat music, kept low under the voice) <powder pouring, ice clinking> Generate only this one spoken line. No subtitles, no captions, no on-screen text of any kind.",
+      "reference_images": ["whey-1.jpg", "whey-2.jpg"]
+    },
+    {
+      "id": "ad02",
+      "angle": "problem_solution",
+      "language": "en",
+      "prompt": "Vertical social ad, 9:16, handheld and natural. @Image 1 is the product: the whey protein pouch. Keep its shape, proportions, colours and label exactly as shown. Do not reproduce any award badges, headlines or graphics from the reference images. @Image 2 is for shake colour reference only, never its text. 0-3s: dim kitchen late in the evening, a tired athlete still in gym clothes stares into an almost empty fridge, handheld close-up, cool light on their face. 3-5s: they turn and spot the pouch from @Image 1 on the counter, warm light rises, quick cut to a shaker being filled and a first sip. 5-8s: medium close-up, the athlete lowers the glass, exhales and half-smiles directly into the camera. In a relieved, friendly English voice, the athlete says once on camera: {Thirty seconds, and I'm back.} Realistic documentary look, natural skin tones, no studio polish. <fridge hum, shaker rattle, quiet room tone> Generate only this one spoken line. No subtitles, no captions, no on-screen text of any kind.",
+      "reference_images": ["whey-1.jpg", "whey-2.jpg"]
+    },
+    {
+      "id": "ad03",
+      "angle": "problem_solution",
+      "language": "es",
+      "prompt": "Vertical social ad, 9:16, handheld and natural. @Image 1 is the product: the whey protein pouch. Keep its shape, proportions, colours and label exactly as shown. Do not reproduce any award badges, headlines or graphics from the reference images. @Image 2 is for shake colour reference only, never its text. 0-3s: dim kitchen late in the evening, a tired athlete still in gym clothes stares into an almost empty fridge, handheld close-up, cool light on their face. 3-5s: they turn and spot the pouch from @Image 1 on the counter, warm light rises, quick cut to a shaker being filled and a first sip. 5-8s: medium close-up, the athlete lowers the glass, exhales and half-smiles directly into the camera. In a relieved, friendly Spanish voice, the athlete says once on camera: {Treinta segundos, y vuelvo a la carga.} Realistic documentary look, natural skin tones, no studio polish. <fridge hum, shaker rattle, quiet room tone> Generate only this one spoken line. No subtitles, no captions, no on-screen text of any kind.",
+      "reference_images": ["whey-1.jpg", "whey-2.jpg"]
+    },
+    {
+      "id": "ad04",
+      "angle": "lifestyle",
+      "language": "en",
+      "prompt": "Vertical lifestyle ad, 9:16, cinematic. @Image 1 is the product: the whey protein pouch. Keep its shape, proportions, colours and label exactly as shown. Do not reproduce any award badges, headlines or graphics from the reference images. @Image 2 is for shake colour reference only, never its text. 0-3s: golden-hour rooftop above a city, a runner slows to a stop and catches their breath, smooth tracking shot, long shadows. 3-5s: two friends on a low bench share strawberry and chocolate shakes, the pouch from @Image 1 resting beside them, lens flare across frame. 5-8s: medium shot, the runner lifts a shake toward the camera as the friends laugh behind them. In a relaxed, upbeat English voice, the runner says once on camera: {This is how we refuel.} Warm cinematic grade, shallow depth of field, soft backlight. (feel-good indie pop, kept low under the voice) <distant city ambience, light wind> Generate only this one spoken line. No subtitles, no captions, no on-screen text of any kind.",
+      "reference_images": ["whey-1.jpg", "whey-2.jpg"]
+    },
+    {
+      "id": "ad05",
+      "angle": "lifestyle",
+      "language": "es",
+      "prompt": "Vertical lifestyle ad, 9:16, cinematic. @Image 1 is the product: the whey protein pouch. Keep its shape, proportions, colours and label exactly as shown. Do not reproduce any award badges, headlines or graphics from the reference images. @Image 2 is for shake colour reference only, never its text. 0-3s: golden-hour rooftop above a city, a runner slows to a stop and catches their breath, smooth tracking shot, long shadows. 3-5s: two friends on a low bench share strawberry and chocolate shakes, the pouch from @Image 1 resting beside them, lens flare across frame. 5-8s: medium shot, the runner lifts a shake toward the camera as the friends laugh behind them. In a relaxed, upbeat Spanish voice, the runner says once on camera: {Así es como recargamos energía.} Warm cinematic grade, shallow depth of field, soft backlight. (feel-good indie pop, kept low under the voice) <distant city ambience, light wind> Generate only this one spoken line. No subtitles, no captions, no on-screen text of any kind.",
+      "reference_images": ["whey-1.jpg", "whey-2.jpg"]
+    }
+  ]
+}

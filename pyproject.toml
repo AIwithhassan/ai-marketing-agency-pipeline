@@ -1,0 +1,15 @@
+[project]
+name = "sell-ai-ads"
+version = "0.1.0"
+description = "Batch-generate video ads with the BytePlus Seedance 2.5 API"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = [
+    "byteplus-python-sdk-v2[ark]",
+    # Imported by the BytePlus SDK but not declared as its dependencies
+    "httpx",
+    "sniffio",
+    "python-dotenv",
+    "requests",
+]
