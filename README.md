@@ -4,7 +4,7 @@ Batch-generate video ads for any product using the BytePlus Seedance 2.5 API. On
 
 > 👉 Get your Seedance 2.5 API key and grab a resource plan on BytePlus: **[LANDING PAGE LINK]**
 
-📺 **Watch the full walkthrough:** https://youtu.be/UEsyub42Vr4
+📺 **Watch the full walkthrough:** [https://youtu.be/UEsyub42Vr4](https://www.youtube.com/watch?v=_L_d4g0ekh4&lc=Ugw4lgNch65tP2xW2-B4AaABAg)
 
 ---
 
